@@ -1,0 +1,76 @@
+ {
+        "trademarkList": [
+            {
+                "tmId": 2,
+                "tmName": "苹果"
+            },
+            {
+                "tmId": 1,
+                "tmName": "小米"
+            },
+            {
+                "tmId": 2181,
+                "tmName": "朋友的叔叔"
+            },
+            {
+                "tmId": 2218,
+                "tmName": "霸王生发液"
+            }
+        ],
+        "total": 17,
+        "pageNo": 1,
+        "goodsList": [
+            {
+                "tmId": null,
+                "hotScore": 0,
+                "category1Name": null,
+                "category2Id": null,
+                "category1Id": null,
+                "title": "华为 HUAWEI P40 麒麟990 5G SoC芯片 5000万超感知徕卡三摄 30倍数字变焦 8GB+128GB亮黑色全网通5G手机",
+                "attrs": null,
+                "defaultImg": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-sklaALrngAAHGDqdpFtU741.jpg",
+                "tmName": null,
+                "createTime": null,
+                "category3Name": null,
+                "price": 4488.0,
+                "category2Name": null,
+                "category3Id": null,
+                "id": 16
+            },
+            {
+                "tmId": null,
+                "hotScore": 0,
+                "category1Name": null,
+                "category2Id": null,
+                "category1Id": null,
+                "title": "小米10 至尊纪念版 双模5G 骁龙865 120HZ高刷新率 120倍长焦镜头 120W快充 8GB+128GB 陶瓷黑 游戏手机",
+                "attrs": null,
+                "defaultImg": "http://47.93.148.192:8080/group1/M00/00/01/rBHu8l-rfvmAIpgZAAIvrX6L9fo612.jpg",
+                "tmName": null,
+                "createTime": null,
+                "category3Name": null,
+                "price": 5999.0,
+                "category2Name": null,
+                "category3Id": null,
+                "id": 1
+            }
+        ],
+        "totalPages": 9,
+        "pageSize": 2,
+        "attrsList": [
+            {
+                "attrId": 1170,
+                "attrValueList": [
+                    "荣耀"
+                ],
+                "attrName": "品牌"
+            },
+            {
+                "attrId": 1185,
+                "attrValueList": [
+                    "美版"
+                ],
+                "attrName": "版本"
+            }
+        ]
+    }
